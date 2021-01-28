@@ -1,0 +1,53 @@
+{
+  "score": 100.0,
+  "tests": [
+    {
+      "test": "has_classes",
+      "points": 8,
+      "possible": 8
+    },
+    {
+      "test": "service_ids",
+      "points": 20,
+      "possible": 20
+    },
+    {
+      "test": "get_trips",
+      "points": 8,
+      "possible": 8
+    },
+    {
+      "test": "get_trips_by_route",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "get_stops",
+      "points": 8,
+      "possible": 8
+    },
+    {
+      "test": "get_stops_rect",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "get_stops_circ",
+      "points": 10,
+      "possible": 10
+    },
+    {
+      "test": "scatter_stops",
+      "points": 20,
+      "possible": 20
+    },
+    {
+      "test": "draw_tree",
+      "points": 6,
+      "possible": 6
+    }
+  ],
+  "lint": [],
+  "date": "03/03/2020",
+  "latency": 9.301130533218384
+}
